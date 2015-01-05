@@ -1,0 +1,12 @@
+---
+tasks:
+  - name: aworker
+    exename: bin/taska
+    args:
+      - a1
+  - name: bworker
+    exename: bin/taskb
+    args:
+      - b1
+      - c1
+      - d1
